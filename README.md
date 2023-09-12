@@ -50,7 +50,7 @@ Polynomial Features (top 11) Training MSE:  0.4147361827707379
 
 Polynomial Features (top 11) Test MSE:  0.40257850379721155
 
-I next tried multiple model types with the 11 polynomial features, and got a slightly more optimal model with Rdige regression (with alpha equal to 100):
+I next tried multiple model types with the 11 polynomial features, and got a slightly more optimal model with Ridge regression (with alpha equal to 100):
 
 Polynomial Features with Lasso Training MSE:  0.41473631813720796
 
